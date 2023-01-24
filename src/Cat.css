@@ -1,0 +1,17 @@
+div.div_cat {
+    width: 15%;
+    border-radius: 5%;
+}
+ul.cat {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+}
+.li_cat a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}

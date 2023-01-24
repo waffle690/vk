@@ -1,0 +1,11 @@
+header {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding-top: 80px;
+}
+a.logo, h2 {
+    text-shadow: #000 2px 2px 0.2rem;
+    color: #00ffb3;
+    text-decoration: none;
+}
